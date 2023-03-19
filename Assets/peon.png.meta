@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 99e6a1644d59ef44e92111fc93d280b2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: peon_f_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 983
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41228118a6bfe59458f5d62ee1013be2
+      internalID: 1924566121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 977
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2824416d810efab45aa024a65768bd95
+      internalID: -1326703083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_side_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 946
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac13f22dd4dbac498a8384e558050f2
+      internalID: 1979555212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_side_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 904
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5debaa26b9e2f7240881a81f99b9427e
+      internalID: 683506755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_f_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 943
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c0d6fa8b15c794a9964ab0aa1da2b6
+      internalID: -1500473704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 947
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039ced21396231b47a3b96e185c84493
+      internalID: 1022941816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_side_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 820
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575452776f9852d4d84bb87b48f537f3
+      internalID: 220521562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 986
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.52278334, y: 0.5444275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167fe3f55fff6564aa9e0db053be4958
+      internalID: -1023837985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_f_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 902
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0811fea16fa3ee48894d69eca7bc4db
+      internalID: -1476127823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 906
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63035e96b2bd94949902e8292ed123ea
+      internalID: 533370890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 903
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8921d31bb118a0e4c909167b9feeb0fc
+      internalID: 1269167078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 865
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff69d2cb5a1e7cc49aaa908bad6e65fc
+      internalID: 191748945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_f_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 862
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6965f30ff31a8db4f9d12c5d15c793ef
+      internalID: 1491377883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 860
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed4d85d26856bf4fbf667c430218b45
+      internalID: -1269563058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_down_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 820
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69502c19931e88043ae7e47c037f6ca6
+      internalID: 334740296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_down_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 860
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0f736d25a8aa644bc8ab12273d4856
+      internalID: -696418638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_f_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 820
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323870fc28d43c94cb0cf69abb8f538d
+      internalID: 400184098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 819
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d102ae5f0da4ac47937d3399d8c62bb
+      internalID: 2081389985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_down_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 942
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcd2b804b7ddc44ea4eba1239fea0b5
+      internalID: -407882765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_down_0
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 986
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191a7d41d125ae0419c0ed620c93bffc
+      internalID: 488674397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_side_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 983
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf5cdef8333a3c46b94bbbefde83afe
+      internalID: 1255534064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_side_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 864
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7458bcd04c599a949b7ea28d42220bf0
+      internalID: -1746124218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 944
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018689bdcc658f243ad15abb22db41e3
+      internalID: 994580513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 825
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b12cdc0c3335d479ea73bdf95bcca9
+      internalID: -1762471135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peon_down_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 902
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06eb6ece2ea0984b83d0fa4558e19ea
+      internalID: -463474481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      peon_65: -1420742989
+      peon_44: -1597749445
+      peon_side_3: -1746124218
+      peon_66: 296033265
+      peon_98: 1742704920
+      peon_f_3: 1491377883
+      peon_97: 414155101
+      peon_25: 564080067
+      peon_52: -1804386348
+      peon_53: 407224981
+      peon_13: -1269563058
+      peon_84: -1591239061
+      peon_71: -923350065
+      peon_down_4: 334740296
+      peon_11: 191748945
+      peon_96: 22162079
+      peon_55: 514085106
+      peon_38: 722606530
+      peon_87: 1380205644
+      peon_94: 1101186775
+      peon_77: -247859654
+      peon_68: 611090975
+      peon_side_1: 1979555212
+      peon_69: 1315101720
+      peon_99: -1374121856
+      peon_72: -588517835
+      peon_32: -745498217
+      peon_78: -2010832975
+      peon_9: 533370890
+      peon_74: 736263033
+      peon_7: -1023837985
+      peon_67: -2084522729
+      peon_28: 301982576
+      peon_43: -554967121
+      peon_70: 114101291
+      peon_side_4: 220521562
+      peon_73: -1434861113
+      peon_side_0: 1255534064
+      peon_60: -1161993771
+      peon_down_2: -463474481
+      peon_23: -1194644050
+      peon_56: -507395756
+      peon_64: 669511412
+      peon_93: -1085612084
+      peon_f_4: 400184098
+      peon_36: -1216692285
+      peon_35: -1031615856
+      peon_80: 2001413404
+      peon_21: -283303817
+      peon_42: 1393819047
+      peon_17: 2081389985
+      peon_26: 1708348868
+      peon_f_2: -1476127823
+      peon_54: -185260089
+      peon_47: -774067907
+      peon_48: -660301753
+      peon_30: 1972900039
+      peon_90: -1722091553
+      peon_86: 423835815
+      peon_down_1: -407882765
+      peon_59: 646917717
+      peon_10: 1269167078
+      peon_92: 509682653
+      peon_1: -1326703083
+      peon_58: -1706591923
+      peon_88: -945935981
+      peon_63: -2117484448
+      peon_5: 1022941816
+      peon_12: -1762471135
+      peon_34: 1308764203
+      peon_40: 644309434
+      peon_8: 994580513
+      peon_49: -1292374417
+      peon_85: 1744404599
+      peon_79: -1676854130
+      peon_41: -2107538280
+      peon_51: 1667654243
+      peon_95: -1189117094
+      peon_50: -547620518
+      peon_down_0: 488674397
+      peon_45: -2092603157
+      peon_f_0: 1924566121
+      peon_82: -2085914455
+      peon_down_3: -696418638
+      peon_39: -865573768
+      peon_62: 204957878
+      peon_33: 2107412207
+      peon_29: 1406188054
+      peon_76: 965379248
+      peon_22: -1860043457
+      peon_24: -1917814306
+      peon_37: 1779379038
+      peon_61: -1936860379
+      peon_20: 1984109178
+      peon_91: 2028809826
+      peon_46: -2094098615
+      peon_75: -1016704451
+      peon_f_1: -1500473704
+      peon_89: -1283601604
+      peon_31: 1859156409
+      peon_83: 726230654
+      peon_57: 1232308737
+      peon_side_2: 683506755
+      peon_81: 1941105413
+      peon_27: -1740281762
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
